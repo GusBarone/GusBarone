@@ -7,12 +7,8 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/FedeBarone)
   - [Active Directory Bulk User Creation](https://github.com/FedeBarone)
   - [FIM (File Integrity Monitor)](https://github.com/FedeBarone)
-- <b>PowerShell Bul Users</b>
+- <b>PowerShell Bulk Users</b>
   - [----------------------------------](https://github.com/FedeBarone)
-  - [----------------------------------](https://github.com/FedeBarone)
-  - [----------------------------------](https://github.com/FedeBarone)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/FedeBarone)
 
 <!--
 **GusBarone/GusBarone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
