@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 SysAdmin Projects</h2>
 
-- <b>PowerShell</b>
+- <b>Active Directorry y Windows Server</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/FedeBarone)
   - [JWipe (Disk Wiping Utility)](https://github.com/FedeBarone)
   - [Active Directory Bulk User Creation](https://github.com/FedeBarone)
   - [FIM (File Integrity Monitor)](https://github.com/FedeBarone)
-- <b>Cybersecurity</b>
+- <b>PowerShell Bul Users</b>
   - [----------------------------------](https://github.com/FedeBarone)
   - [----------------------------------](https://github.com/FedeBarone)
   - [----------------------------------](https://github.com/FedeBarone)
